@@ -1,1 +1,1 @@
-# aplicacion_reactvr_360_grados
+Construcción de una aplicación en un entorno Virtual, es decir en realidad Virtual y poder mirar los alrededores en una vista de 360° entre otras funcionalidades. Las páginas en Realidad Virtual hacen que el usuario tenga una experiencia diferente. Probablemente sea el futuro de las páginas webs junto con la llamada Web 3.0. En este tutorial aprenderemos a como crear una aplicación básica en Realidad Virtual (VR) con Vista 360°.
