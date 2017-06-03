@@ -38,7 +38,7 @@ export default class MiproyectoVR extends React.Component {
         />
         */}
 
-        <Pano source={asset('bg.jpg')} />
+        <Pano source={{uri: '../static_assets/bg.jpg'}} />
 
         {/*
         <VrButton
